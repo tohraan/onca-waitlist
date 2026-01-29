@@ -1,0 +1,11 @@
+{
+    "name": "onca-deployment",
+    "version": "1.0.0",
+    "description": "Static deployment for ONCA",
+    "scripts": {
+        "start": "npx serve"
+    },
+    "dependencies": {
+        "serve": "^14.2.4"
+    }
+}
